@@ -14,12 +14,12 @@
 	<div class="container" style="height: 100%">
 		<div class="row col-9 mx-auto" style="height: 100%"> 
 			<div class="h-75">
-			<img src="inst1.PNG" alt="">
+			<img src="images/inst1.PNG" alt="">
 			</div>
 				<div  class="col-4 ml-5 border bg-white py-4 h-50 border" style="margin-top: 10%">
 				<form action="b.php" method="POST">
 					<div class="col-11 mx-auto">
-					<img src="inst.PNG" alt="">
+					<img src="images/inst.PNG" alt="">
 					</div>
 				  <div class="form-group my-4">
 				    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ваш @mail" name="mail">

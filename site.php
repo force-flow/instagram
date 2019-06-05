@@ -77,7 +77,10 @@
  			<div>
  				<?php echo '<strong>'.$post['name'].'</strong>' ?>
  				<?php echo '<span>'.$post['text'].'</span>' ?>
+  			<form action="del.php" method="POST">
+  			</form>
  			</div>
+
  		</div>
  	<?php } ?>
  	</div>

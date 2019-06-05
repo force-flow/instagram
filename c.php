@@ -14,7 +14,7 @@
 	<div class="container" style="height: 100%">
 		<div class="col-4 mx-auto border my-5">
 			<div class="col-8 mx-auto">
-				<img src="inst.PNG" alt="">
+				<img src="images/inst.PNG" alt="">
 			</div>
 			<form action="d.php" method="POST">
 				  <div class="form-group my-4">
